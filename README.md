@@ -1,1 +1,1 @@
-"# verticle-timeline" 
+# verticle-timeline
